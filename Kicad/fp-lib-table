@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "untitled")(type "KiCad")(uri "$(KIPRJMOD)/untitled.pretty")(options "")(descr ""))
+  (lib (name "MT3608")(type "KiCad")(uri "$(KIPRJMOD)/MT3608-module-kicad-main/hw-045.pretty")(options "")(descr ""))
+  (lib (name "KiCad_LM2596")(type "KiCad")(uri "${KIPRJMOD}/KiCad_LM2596")(options "")(descr ""))
+  (lib (name "Arduino")(type "KiCad")(uri "${KIPRJMOD}/kicad-lib-arduino/Arduino.pretty")(options "")(descr ""))
+)

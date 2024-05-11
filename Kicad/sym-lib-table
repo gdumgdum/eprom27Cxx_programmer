@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "untitled-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/untitled-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "hw-045")(type "KiCad")(uri "${KIPRJMOD}/MT3608-module-kicad-main/hw-045.kicad_sym")(options "")(descr ""))
+  (lib (name "yaaj_dcdc_stepdown_lm2596")(type "KiCad")(uri "${KIPRJMOD}/KiCad_LM2596/yaaj_dcdc_stepdown_lm2596.kicad_sym")(options "")(descr ""))
+  (lib (name "ugl")(type "KiCad")(uri "${KIPRJMOD}/Kicad-libs-master 2/74HC595 2/library/ugl.kicad_sym")(options "")(descr ""))
+)
